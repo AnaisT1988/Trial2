@@ -1,0 +1,55 @@
+{
+    "NodeId": 1426,
+    "TrialNumber": 2,
+    "ParameterValues": [
+        {
+            "ParameterId": 0,
+            "Value": "string",
+            "Unit": "None"
+        }
+    ],
+    "Articles": [
+        {
+            "ArticleId": 128,
+            "Assemblies": [
+                {
+                    "Id": 0,
+                    "Sequence": 0,
+                    "ArticleId": 128,
+                    "ProductId": 0,
+                    "Amount": 0.1,
+                    "Unit": "None",
+                    "AssemblyInstructions": [
+                        {
+                            "AttributeDefinitionId": 0,
+                            "AttributeDefinitionCstId": "string",
+                            "Value": {
+                                "Bool": true,
+                                "Int": 0,
+                                "Double": 0,
+                                "String": "string",
+                                "DateTime": "2023-01-23T06:05:47.556Z",
+                                "File": {
+                                    "FileName": "string",
+                                    "Path": "string",
+                                    "MimeType": {
+                                        "Description": "string",
+                                        "ContentType": "string",
+                                        "Extension": "string"
+                                    },
+                                    "ByteArray": [
+                                        [
+                                            "string"
+                                        ]
+                                    ]
+                                }
+                            },
+                            "Unit": "None"
+                        }
+                    ]
+                }
+            ],
+            "CarrierArticleId": 0
+        }
+    ]
+}

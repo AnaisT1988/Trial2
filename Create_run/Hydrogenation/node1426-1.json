@@ -1,0 +1,95 @@
+{
+    "NodeId": 1426,
+    "TrialNumber": 1,
+    "ParameterValues": [
+        {
+            "ParameterId": 23,
+            "Value": "FALSE",
+            "Unit": "None"
+        },
+        {
+            "ParameterId": 24,
+            "Value": "5",
+            "Unit": "None"
+        },
+        {
+            "ParameterId": 30,
+            "Value": "5",
+            "Unit": "None"
+        },
+        {
+            "ParameterId": 31,
+            "Value": "5",
+            "Unit": "None"
+        },
+        {
+            "ParameterId": 32,
+            "Value": "5",
+            "Unit": "None"
+        },
+        {
+            "ParameterId": 33,
+            "Value": "10",
+            "Unit": "None"
+        },
+        {
+            "ParameterId": 34,
+            "Value": "2",
+            "Unit": "None"
+        },
+        {
+            "ParameterId": 35,
+            "Value": "2",
+            "Unit": "None"
+        },
+        {
+            "ParameterId": 41,
+            "Value": "Needle3",
+            "Unit": "None"
+        }
+    ],
+    "Articles": [
+        {
+            "ArticleId": 5,
+            "Assemblies": [
+                {
+                    "Id": 0,
+                    "Sequence": 0,
+                    "ArticleId": 0,
+                    "ProductId": 0,
+                    "Amount": 0,
+                    "Unit": "None",
+                    "AssemblyInstructions": [
+                        {
+                            "AttributeDefinitionId": 0,
+                            "AttributeDefinitionCstId": "string",
+                            "Value": {
+                                "Bool": true,
+                                "Int": 0,
+                                "Double": 0,
+                                "String": "string",
+                                "DateTime": "2023-01-23T06:05:47.556Z",
+                                "File": {
+                                    "FileName": "string",
+                                    "Path": "string",
+                                    "MimeType": {
+                                        "Description": "string",
+                                        "ContentType": "string",
+                                        "Extension": "string"
+                                    },
+                                    "ByteArray": [
+                                        [
+                                            "string"
+                                        ]
+                                    ]
+                                }
+                            },
+                            "Unit": "None"
+                        }
+                    ]
+                }
+            ],
+            "CarrierArticleId": 0
+        }
+    ]
+}

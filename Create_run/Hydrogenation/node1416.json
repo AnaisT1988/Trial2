@@ -1,0 +1,107 @@
+{
+    "NodeId": 1416,
+    "TrialNumber": 0,
+    "ParameterValues": [
+        {
+            "ParameterId": 0,
+            "Value": "string",
+            "Unit": "None"
+        }
+    ],
+    "Articles": [
+        {
+            "ArticleId": 5,
+            "Assemblies": [
+                {
+                    "Id": 0,
+                    "Sequence": 0,
+                    "ArticleId": 0,
+                    "ProductId": 9272,
+                    "Amount": 3.25,
+                    "Unit": "None",
+                    "AssemblyInstructions": [
+                        {
+                            "AttributeDefinitionId": 139,
+                            "AttributeDefinitionCstId": "string",
+                            "Value": {
+                                "Bool": true,
+                                "Int": 0,
+                                "Double": 0,
+                                "String": "4NH",
+                                "DateTime": "2023-01-23T06:05:47.556Z",
+                                "File": {
+                                    "FileName": "string",
+                                    "Path": "string",
+                                    "MimeType": {
+                                        "Description": "string",
+                                        "ContentType": "string",
+                                        "Extension": "string"
+                                    },
+                                    "ByteArray": [
+                                        [
+                                            "string"
+                                        ]
+                                    ]
+                                }
+                            },
+                            "Unit": "None"
+                        },
+                        {
+                            "AttributeDefinitionId": 192,
+                            "AttributeDefinitionCstId": "string",
+                            "Value": {
+                                "Bool": false,
+                                "Int": 0,
+                                "Double": 0,
+                                "String": "string",
+                                "DateTime": "2023-01-23T06:05:47.556Z",
+                                "File": {
+                                    "FileName": "string",
+                                    "Path": "string",
+                                    "MimeType": {
+                                        "Description": "string",
+                                        "ContentType": "string",
+                                        "Extension": "string"
+                                    },
+                                    "ByteArray": [
+                                        [
+                                            "string"
+                                        ]
+                                    ]
+                                }
+                            },
+                            "Unit": "None"
+                        },
+                        {
+                            "AttributeDefinitionId": 193,
+                            "AttributeDefinitionCstId": "string",
+                            "Value": {
+                                "Bool": true,
+                                "Int": 0,
+                                "Double": 0,
+                                "String": "string",
+                                "DateTime": "2023-01-23T06:05:47.556Z",
+                                "File": {
+                                    "FileName": "string",
+                                    "Path": "string",
+                                    "MimeType": {
+                                        "Description": "string",
+                                        "ContentType": "string",
+                                        "Extension": "string"
+                                    },
+                                    "ByteArray": [
+                                        [
+                                            "string"
+                                        ]
+                                    ]
+                                }
+                            },
+                            "Unit": "None"
+                        }
+                    ]
+                }
+            ],
+            "CarrierArticleId": 0
+        }
+    ]
+}

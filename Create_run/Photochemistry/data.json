@@ -1,0 +1,4119 @@
+{
+    "PlatformId": 1,
+    "Label": "test_create_run_via_API",
+    "WorkflowId": 20,
+    "Experiments": [
+        {
+            "Id": -1,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 188,
+                                    "Amount": 4.016000000000001,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -2,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 188,
+                                    "Amount": 4.016000000000001,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -3,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 189,
+                                    "Amount": 2.6840000000000006,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -4,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 189,
+                                    "Amount": 2.6840000000000006,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -5,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 188,
+                                    "Amount": 4.016000000000001,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 181,
+                                    "Amount": 0.19222,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -6,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 188,
+                                    "Amount": 4.016000000000001,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 181,
+                                    "Amount": 0.19222,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -7,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 189,
+                                    "Amount": 2.6840000000000006,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 181,
+                                    "Amount": 0.19222,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -8,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 189,
+                                    "Amount": 2.6840000000000006,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 181,
+                                    "Amount": 0.19222,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -9,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 190,
+                                    "Amount": 1.802,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -10,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 190,
+                                    "Amount": 1.802,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -11,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 188,
+                                    "Amount": 4.016000000000001,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 183,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -12,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 188,
+                                    "Amount": 4.016000000000001,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 183,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -13,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 35.638,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 18.202,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 188,
+                                    "Amount": 4.016000000000001,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -14,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 35.638,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 18.202,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 188,
+                                    "Amount": 4.016000000000001,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.021963440860215,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -15,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 35.638,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 188,
+                                    "Amount": 4.016000000000001,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.0109817204301075,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": -16,
+            "Nodes": [
+                {
+                    "NodeId": 1461,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 35.638,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 185,
+                                    "Amount": 36.404,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-PFD"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 187,
+                                    "Amount": 2.1972,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 188,
+                                    "Amount": 4.016000000000001,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ArticleId": 191,
+                                    "Amount": 0.8595,
+                                    "Unit": 1002,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "13196261-41A2-42DB-9F79-82D175396798",
+                                            "Value": {
+                                                "String": "GDU-S"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1464,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 186,
+                                    "Amount": 0.0109817204301075,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1481,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.5,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1483,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 5,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 182,
+                                    "Amount": 1.0,
+                                    "Unit": 801,
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionCstId": "A3662EB7-5735-4CE1-BF41-FFD4160DB057",
+                                            "Value": {
+                                                "String": "4NH"
+                                            },
+                                            "Unit": 2600
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1466,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 1,
+                            "Value": "25",
+                            "Unit": 201
+                        },
+                        {
+                            "ParameterId": 2,
+                            "Value": "400",
+                            "Unit": 1601
+                        },
+                        {
+                            "ParameterId": 3,
+                            "Value": "8",
+                            "Unit": 602
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1469,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 5,
+                                    "Amount": 0.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1472,
+                    "TrialNumber": 2,
+                    "Articles": [
+                        {
+                            "ArticleId": 128,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.5,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1473,
+                    "TrialNumber": 2,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 43,
+                            "Value": "10",
+                            "Unit": 801
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1474,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 128,
+                                    "Amount": 0.3,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1477,
+                    "TrialNumber": 3,
+                    "Articles": [
+                        {
+                            "ArticleId": 126,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 194,
+                                    "Amount": 1.2,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "NodeId": 1414,
+    "TrialNumber": 0,
+    "ParameterValues": [
+        {
+            "ParameterId": 0,
+            "Value": "string",
+            "Unit": "None"
+        }
+    ],
+    "Articles": [
+        {
+            "ArticleId": 5,
+            "Assemblies": [
+                {
+                    "Id": 0,
+                    "Sequence": 0,
+                    "ArticleId": 0,
+                    "ProductId": 9822,
+                    "Amount": 5.4,
+                    "Unit": "None",
+                    "AssemblyInstructions": [
+                        {
+                            "AttributeDefinitionId": 138,
+                            "AttributeDefinitionCstId": "string",
+                            "Value": {
+                                "Bool": true,
+                                "Int": 0,
+                                "Double": 0,
+                                "String": "GDU-S",
+                                "DateTime": "2023-01-23T06:05:47.556Z",
+                                "File": {
+                                    "FileName": "string",
+                                    "Path": "string",
+                                    "MimeType": {
+                                        "Description": "string",
+                                        "ContentType": "string",
+                                        "Extension": "string"
+                                    },
+                                    "ByteArray": [
+                                        [
+                                            "string"
+                                        ]
+                                    ]
+                                }
+                            },
+                            "Unit": "None"
+                        }
+                    ]
+                },
+                {
+                    "Id": 0,
+                    "Sequence": 0,
+                    "ArticleId": 0,
+                    "ProductId": 9300,
+                    "Amount": 102,
+                    "Unit": "None",
+                    "AssemblyInstructions": [
+                        {
+                            "AttributeDefinitionId": 138,
+                            "AttributeDefinitionCstId": "string",
+                            "Value": {
+                                "Bool": true,
+                                "Int": 0,
+                                "Double": 0,
+                                "String": "GDU-V",
+                                "DateTime": "2023-01-23T06:05:47.556Z",
+                                "File": {
+                                    "FileName": "string",
+                                    "Path": "string",
+                                    "MimeType": {
+                                        "Description": "string",
+                                        "ContentType": "string",
+                                        "Extension": "string"
+                                    },
+                                    "ByteArray": [
+                                        [
+                                            "string"
+                                        ]
+                                    ]
+                                }
+                            },
+                            "Unit": "None"
+                        }
+                    ]
+                },{
+                    "Id": 0,
+                    "Sequence": 0,
+                    "ArticleId": 0,
+                    "ProductId": 9299,
+                    "Amount": 2.8,
+                    "Unit": "None",
+                    "AssemblyInstructions": [
+                        {
+                            "AttributeDefinitionId": 138,
+                            "AttributeDefinitionCstId": "string",
+                            "Value": {
+                                "Bool": true,
+                                "Int": 0,
+                                "Double": 0,
+                                "String": "GDU-PFD",
+                                "DateTime": "2023-01-23T06:05:47.556Z",
+                                "File": {
+                                    "FileName": "string",
+                                    "Path": "string",
+                                    "MimeType": {
+                                        "Description": "string",
+                                        "ContentType": "string",
+                                        "Extension": "string"
+                                    },
+                                    "ByteArray": [
+                                        [
+                                            "string"
+                                        ]
+                                    ]
+                                }
+                            },
+                            "Unit": "None"
+                        }
+                    ]
+                }
+            ],
+            "CarrierArticleId": 0
+        }
+
+    ]
+}

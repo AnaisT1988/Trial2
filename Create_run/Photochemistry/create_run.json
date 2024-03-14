@@ -1,0 +1,50 @@
+{
+    "WorkflowId": 0,
+    "Experiments": [
+        {
+            "Id": 0,
+            "Nodes": [
+                {
+                    "NodeId": 0,
+                    "TrialNumber": 0,
+                    "ParameterValues": [
+                        {
+                            "ParameterId": 0,
+                            "Value": "string",
+                            "Unit": "None"
+                        }
+                    ],
+                    "Articles": [
+                        {
+                            "ArticleId": 0,
+                            "Assemblies": [
+                                {
+                                    "Id": 0,
+                                    "Sequence": 0,
+                                    "ArticleId": 0,
+                                    "ProductId": 0,
+                                    "Amount": 4.3,
+                                    "Unit": "None",
+                                    "AssemblyInstructions": [
+                                        {
+                                            "AttributeDefinitionId": 0,
+                                            "Value": {
+                                                "Bool": true,
+                                                "Int": 0,
+                                                "Double": 0,
+                                                "String": "string",
+                                                "DateTime": "2023-01-23T06:05:47.556Z"
+                                            },
+                                            "Unit": "None"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "CarrierArticleId": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

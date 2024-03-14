@@ -1,0 +1,44 @@
+{
+    "PlatformId": 1,
+    "Label": "test_create_run_via_API_one exp_stock",
+    "WorkflowId": 2,
+    "Experiments": [
+        {
+            "Id": -1,
+            "Nodes": [
+                {
+                    "NodeId": 1005,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 7,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 184,
+                                    "Amount": 17.819,
+                                    "Unit": 1002
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "NodeId": 1006,
+                    "TrialNumber": 0,
+                    "Articles": [
+                        {
+                            "ArticleId": 7,
+                            "Assemblies": [
+                                {
+                                    "ArticleId": 192,
+                                    "Amount": 0.0227501001736343,
+                                    "Unit": 801
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

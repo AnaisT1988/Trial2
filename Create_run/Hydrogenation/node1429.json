@@ -1,0 +1,65 @@
+{
+    "NodeId": 1429,
+    "TrialNumber": 2,
+    "ParameterValues": [
+        {
+            "ParameterId": 10,
+            "Value": "120",
+            "Unit": "None"
+        },
+        {
+            "ParameterId": 11,
+            "Value": "400",
+            "Unit": "None"
+        },
+        {
+            "ParameterId": 14,
+            "Value": "0",
+            "Unit": "None"
+        }
+    ],
+    "Articles": [
+        {
+            "ArticleId": 5,
+            "Assemblies": [
+                {
+                    "Id": 0,
+                    "Sequence": 0,
+                    "ArticleId": 0,
+                    "ProductId": 0,
+                    "Amount": 0,
+                    "Unit": "None",
+                    "AssemblyInstructions": [
+                        {
+                            "AttributeDefinitionId": 0,
+                            "AttributeDefinitionCstId": "string",
+                            "Value": {
+                                "Bool": true,
+                                "Int": 0,
+                                "Double": 0,
+                                "String": "string",
+                                "DateTime": "2023-01-23T06:05:47.556Z",
+                                "File": {
+                                    "FileName": "string",
+                                    "Path": "string",
+                                    "MimeType": {
+                                        "Description": "string",
+                                        "ContentType": "string",
+                                        "Extension": "string"
+                                    },
+                                    "ByteArray": [
+                                        [
+                                            "string"
+                                        ]
+                                    ]
+                                }
+                            },
+                            "Unit": "None"
+                        }
+                    ]
+                }
+            ],
+            "CarrierArticleId": 0
+        }
+    ]
+}
